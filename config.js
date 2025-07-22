@@ -53,10 +53,40 @@ var config = {
         },
         {
             id: '1',
-            alignment: 'centered',
+            alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/R4JjjS8b/bostan.png',
+            image: 'https://i.ibb.co/6JYqT2NH/s1.png',
+            description: '',
+            location: {
+                center: [29.124208341805872,40.92681653040754],
+                zoom: 18,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+         {
+            id: '2',
+            alignment: 'right',
+            hidden: false,
+            title: '',
+            image: 'https://i.ibb.co/KcnXpY4f/s2.png',
             description: '',
             location: {
                 center: [29.124208341805872,40.92681653040754],
