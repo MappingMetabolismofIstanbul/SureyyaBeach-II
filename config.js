@@ -65,7 +65,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
@@ -95,7 +95,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
