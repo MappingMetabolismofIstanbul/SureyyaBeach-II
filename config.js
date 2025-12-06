@@ -17,7 +17,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Bostandan Plaja : Süreyya Plajı / From the urban farm to the beach : Sureyya Beach',
+    title: 'Bostandan Plaja : Süreyya Plajı / From orchards to the beaches : Sureyya Beach',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
